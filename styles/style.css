@@ -182,9 +182,7 @@ main{
   margin-right: 25px;
 }
 
-.hero-img {
-  display: none;
-}
+
 .hero-img img{
   width: 100%;
 }
@@ -526,5 +524,6 @@ textarea{
 .footer-totop {
 
 }
+
 
 
