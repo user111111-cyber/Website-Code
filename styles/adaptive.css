@@ -66,18 +66,11 @@
   .hero-inner {
     grid-template-rows: repeat(2, 1fr);
   }
-  .hero-img {
-    display: block;
-  }
 }
 
 @media (min-width: 900px) {
   .hero-inner {
     grid-template-columns: repeat(2, 1fr);
-  }
-
-  .hero-img {
-    display: block;
   }
 }
 
@@ -142,6 +135,7 @@
     margin-top: 0;
   }
 }
+
 
 
 
