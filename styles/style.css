@@ -182,6 +182,9 @@ main{
   margin-right: 25px;
 }
 
+.hero-img{
+  transform:translate(100%);
+}
 
 .hero-img img{
   width: 100%;
@@ -525,6 +528,7 @@ textarea{
 .footer-totop {
 
 }
+
 
 
 
