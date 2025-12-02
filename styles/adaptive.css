@@ -66,6 +66,9 @@
   .hero-inner {
     grid-template-rows: repeat(2, 1fr);
   }
+  .hero-img {
+    display: block;
+  }
 }
 
 @media (min-width: 900px) {
@@ -139,5 +142,6 @@
     margin-top: 0;
   }
 }
+
 
 
