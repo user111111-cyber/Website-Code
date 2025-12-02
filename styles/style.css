@@ -159,7 +159,7 @@ main{
   height: 100%;
 
   flex-direction: column;
-  justify-content: space-around;
+  justify-content: space-between;
   padding: 0 5%;
 }
 
@@ -525,3 +525,4 @@ textarea{
 .footer-totop {
 
 }
+
