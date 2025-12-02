@@ -183,7 +183,7 @@ main{
 }
 
 .hero-img{
-  transform:translate(100%);
+  transform:translate(50%);
 }
 
 .hero-img img{
@@ -528,6 +528,7 @@ textarea{
 .footer-totop {
 
 }
+
 
 
 
