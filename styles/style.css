@@ -159,8 +159,9 @@ main{
   height: 100%;
 
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-around;
   padding: 0 5%;
+  margin-right:auto;
 }
 
 .hero-title {
@@ -372,8 +373,8 @@ main{
 }
 
 .reviews-img img {
-  width: auto;
-  height: 100%;
+  height: auto;
+  width: 100%;
 
 }
 
@@ -525,4 +526,5 @@ textarea{
 .footer-totop {
 
 }
+
 
