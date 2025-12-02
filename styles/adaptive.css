@@ -75,7 +75,11 @@
   }
 }
 
-@media (min-width: 1260px) {}
+@media (min-width: 1260px) {
+  .hero-img{
+  transform:translate(50%);
+  }
+}
 /* -------------------------------about------------------------------- */
 
 
@@ -136,6 +140,7 @@
     margin-top: 0;
   }
 }
+
 
 
 
