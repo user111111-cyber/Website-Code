@@ -62,7 +62,11 @@
 
 /* -------------------------------hero------------------------------- */
 
-@media (min-width: 500px) {}
+@media (min-width: 500px) {
+  .hero-inner {
+    grid-template-rows: repeat(2, 1fr);
+  }
+}
 
 @media (min-width: 900px) {
   .hero-inner {
@@ -135,4 +139,5 @@
     margin-top: 0;
   }
 }
+
 
